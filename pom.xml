@@ -3,7 +3,7 @@
   <groupId>demo-website</groupId>
   <artifactId>demo-website</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   
   <name>Demo Website</name>
   <description>Boey Demo Website</description>
