@@ -1,1 +1,1 @@
-web:    java -jar target/demo-website.jar
+web:    java -war target/demo-website.war
